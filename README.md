@@ -1,7 +1,8 @@
 # Integrative-functional-genomic-analyses-implicate-specific-molecular-pathways-and-circuits-in-autism
 asd-development-coexpression-2013
 
-This code was originally posted at: https://horvath.genetics.ucla.edu/html/CoexpressionNetwork/developingcortex/ Update: This link may no longer work. Please use: https://zenodo.org/records/11290015 to find the input file instead.
+This code was originally posted at: https://horvath.genetics.ucla.edu/html/CoexpressionNetwork/developingcortex/ Update: This link may no longer work. Please use: https://zenodo.org/records/11290015 to find the input file instead, or use:
+https://uclahs.box.com/v/asd-development-coexpression.
 
 ## Manuscript
 
